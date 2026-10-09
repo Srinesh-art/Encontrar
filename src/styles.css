@@ -7,3 +7,7 @@
 .toolbar-tools .action-btn:disabled{opacity:.42;cursor:not-allowed;transform:none}
 @media(max-width:900px){.toolbar-tools{width:100%}.toolbar-tools select{flex:1;min-width:145px}}
 @media(max-width:640px){.toolbar-tools{display:grid;grid-template-columns:1fr 1fr}.toolbar-tools select{grid-column:1/-1;width:100%;min-height:44px}.toolbar-tools .action-btn{justify-content:center;min-height:44px}}
+
+/* Keep the text caret limited to editable fields. */
+body{caret-color:transparent}
+input,textarea{caret-color:auto}
