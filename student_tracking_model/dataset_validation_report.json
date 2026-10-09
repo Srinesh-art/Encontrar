@@ -1,0 +1,10 @@
+{
+    "students_null_count": 0,
+    "gate_entries_null_count": 0,
+    "camera_observations_null_count": 0,
+    "class_timetable_null_count": 0,
+    "attendance_records_null_count": 0,
+    "student_tracking_dataset_null_count": 0,
+    "validation_status": "PASSED",
+    "timestamp": "2026-10-09 13:35:49"
+}

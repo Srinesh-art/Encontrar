@@ -1,0 +1,14 @@
+[
+    "year_of_study",
+    "entry_verified",
+    "time_since_last_observation_minutes",
+    "camera_observation_count",
+    "identity_verified",
+    "entry_hour",
+    "observation_rate",
+    "dept_Business Admin",
+    "dept_Computer Science",
+    "dept_Data Science",
+    "dept_Electrical Eng",
+    "dept_Mechanical Eng"
+]
